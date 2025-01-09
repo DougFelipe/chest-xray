@@ -2,7 +2,8 @@
 
 ## Objetivo
 
-Este projeto tem como objetivo implementar um modelo de Deep Learning para a detecção de pneumonia em radiografias de tórax O modelo é treinado, validado e testado em um dataset público de radiografias de tórax
+Este projeto tem como objetivo implementar um modelo de Deep Learning para a detecção de pneumonia em radiografias de tórax 
+O modelo será treinado, validado e testado em um dataset público de radiografias de tórax
 
 - **Link do Dataset**: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 - **Link do Colab**: [Projeto](https://colab.research.google.com/drive/1MIENGnoMoRWo4YS8cUP-gZFgM8tKQBZU?usp=sharing)
