@@ -73,3 +73,18 @@ As transformações foram aplicadas apenas ao conjunto de treinamento Os conjunt
 ### Visualização de Exemplos
 
 - Amostras de imagens de cada classe foram selecionadas e visualizadas para verificar as transformações de Data Augmentation
+
+# Lista To-Do para o Projeto
+
+- [ ] Fluxo de treinamento com Arquitetura da rede de treinamento com número de neurônios por camadas e parâmetros treinados
+- [ ] Detalhamento do uso de redes pré-treinadas
+- [ ] Detalhamento dos procedimentos de normalização, funções de ativação utilizada, inicialização de pesos e vieses, tipo de algoritmo de otimização, função loss utilizada
+- [ ] Detalhamento da busca por hiperparâmetros
+- [ ] Implementação de registro de versionamento de artefatos e métricas com "Weight and Biases"
+- [ ] Explicação métricas empregadas, desempenho de teste e validação
+- [ ] Discussão sobre limitações e dificuldades no processo de construção do projeto
+- [ ] Uso de Interpretabilidade de Modelos com XAI como Lime ou SHAP
+- [ ] Comparação do desempenho com arquiteturas de modelos existentes
+- [ ] Discussão sobre limitações da arquitetura escolhida no projeto
+- [ ] Sugestões de melhorias que poderiam ser feitas no projeto
+
