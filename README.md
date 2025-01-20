@@ -6,7 +6,8 @@ Este projeto tem como objetivo implementar um modelo de Deep Learning para a det
 O modelo será treinado, validado e testado em um dataset público de radiografias de tórax
 
 - **Link do Dataset**: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
-- **Link do Colab**: [Projeto](https://colab.research.google.com/drive/1MIENGnoMoRWo4YS8cUP-gZFgM8tKQBZU?usp=sharing)
+- **Link do Colab**: [Projeto](https://drive.google.com/file/d/1c1Cb2LVvJ35vBC_as3YJVgosMZJWJPuc/view?usp=sharing)
+- **Link da Apresentação**: [Apresentação](https://drive.google.com/file/d/1c1Cb2LVvJ35vBC_as3YJVgosMZJWJPuc/view?usp=sharing](https://docs.google.com/presentation/d/1ihzSLWbR4ZIxc-0xbTDee_x4zeGd7iSEWSSYhSSCFBc/edit?usp=sharing))
 
 
 ---
