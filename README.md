@@ -7,7 +7,7 @@ O modelo será treinado, validado e testado em um dataset público de radiografi
 
 - **Link do Dataset**: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 - **Link do Colab**: [Projeto](https://drive.google.com/file/d/1c1Cb2LVvJ35vBC_as3YJVgosMZJWJPuc/view?usp=sharing)
-- **Link da Apresentação**: [Apresentação](https://drive.google.com/file/d/1c1Cb2LVvJ35vBC_as3YJVgosMZJWJPuc/view?usp=sharing](https://docs.google.com/presentation/d/1ihzSLWbR4ZIxc-0xbTDee_x4zeGd7iSEWSSYhSSCFBc/edit?usp=sharing))
+- **Link da Apresentação**: [Apresentação](https://docs.google.com/presentation/d/1ihzSLWbR4ZIxc-0xbTDee_x4zeGd7iSEWSSYhSSCFBc/edit?usp=sharing)
 
 
 ---
