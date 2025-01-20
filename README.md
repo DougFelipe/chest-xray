@@ -45,8 +45,7 @@ Durante o treinamento, aplicamos Data Augmentation às imagens para aumentar a r
 
 - **Rotação Aleatória**: Rotação de até 15 graus
 - **Reflexão Horizontal**: Reflexão com 50% de probabilidade
-- **Adição de Ruído**: Utilizando blur gaussiano com probabilidade de 20%
-- **Normalização**: Os valores dos pixels são normalizados em torno de `mean=0.5` e `std=0.5`
+
 
 As transformações foram aplicadas apenas ao conjunto de treinamento Os conjuntos de validação e teste passaram por uma normalização simples
 
